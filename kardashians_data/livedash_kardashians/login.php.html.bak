@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="content-script-type" content="text/javascript">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <title>Livedash - Search what is being mentioned across national TV</title>
+    <meta name="description" content="Live search"/>
+    <meta name="keywords" content="Live search"/>
+    
+   
+    <link rel="stylesheet" type="text/css" href="http://www.livedash.com/css/search.css"/>    
+    <link rel="stylesheet" type="text/css" href="http://www.livedash.com/css/start.css"/>    
+    <link rel="stylesheet" type="text/css" href="http://www.livedash.com/css/CalendarControl.css"/>    
+    <link rel="stylesheet" type="text/css" href="http://www.livedash.com/css/skins/tango/skin.css"/>    
+    
+    
+    
+    
+
+</head>
+
+
+<body style="background: #ffffff url('http://www.livedash.com/images/search/login-background.jpg') no-repeat left top;">
+    <form action="" method="post" name="signupForm">
+<div id="signin_menu">
+    
+        <div class="textbox">
+    User name:<br/>
+    <input tabindex="1" type="text"  style="font-size:15px;" class="signuptext" value="" name="username" size="20" maxlength="60" style="background-color: rgb(255, 255, 160);"/>
+    
+    </div>
+
+    <div class="textbox">
+    Password:<br/>
+   <input tabindex="2" type="password"  style="font-size:15px;" class="signuptext" name="password" maxlength="20"/>
+    
+    </div>
+    <div class="textbox">
+    <input type="submit" tabindex="2" value="Login" id="signin_submit">   
+     <input type="hidden" name="action_login" value="Log In"/>
+    </div>
+</div>
+<div style="clear:both"></div>
+</form>    
+        
+
+    
+            
+                                                   <script type="text/javascript">
+
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-2075393-2']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+ })();
+
+</script>
+
+    
+ 
+</body>
+
+</html>
